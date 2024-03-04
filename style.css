@@ -1,0 +1,28 @@
+body {
+    background-color: bisque;
+}
+#titleCard {
+    text-align: center;
+    margin: 0 auto;
+}
+#portrait {
+    padding: 5%;
+    width: auto;
+    height: 450px;
+}
+#portrait-card {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+ul {
+  list-style-type: none;
+}
+#knowledge {
+    display: inline-flexbox;
+}
+#aboutMe {
+    font-size: 23px;
+    text-align: center;
+    padding: 4%;
+}
